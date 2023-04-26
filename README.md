@@ -24,8 +24,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 
 
-Feito com :heart: por <a href="https://github.com/{{loresgarcia}}" target="_blank">{{Lorena Garcia}}</a>
+Feito com :heart: por <a href="https://github.com/loresgarcia" target="_blank">Lorena Garcia</a>
 
-&#xa0;
-
-<a href="#top">Subir</a>
+<a href="#top">Subir &#8593</a>
