@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de um README em Markdown para o projeto da página de login HTML e CSS que eu criei:
-
 # Página de Login HTML e CSS
 
 Este é um exemplo simples de uma página de login criada com HTML e CSS. A página tem um formulário com campos para nome de usuário e senha, além de um botão de login.
